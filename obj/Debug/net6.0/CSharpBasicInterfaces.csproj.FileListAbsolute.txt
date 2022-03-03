@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\bin\Debug\net6.0\CSharpBasicInterfaces.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\bin\Debug\net6.0\CSharpBasicInterfaces.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\bin\Debug\net6.0\CSharpBasicInterfaces.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\bin\Debug\net6.0\CSharpBasicInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\bin\Debug\net6.0\CSharpBasicInterfaces.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\refint\CSharpBasicInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\CSharpBasicInterfaces.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpBasicInterfaces\obj\Debug\net6.0\ref\CSharpBasicInterfaces.dll
